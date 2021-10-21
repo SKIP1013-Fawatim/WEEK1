@@ -1,0 +1,16 @@
+package myinfo;
+
+class Personal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Name : Fawatim Nural Ain");
+		System.out.println("University Name : Universiti Utara Malaysia");
+		System.out.println("Matrix Number : 288408");
+		System.out.println("Course : Computer Science");
+		System.out.println("Father's Name : Noor Aris");
+		System.out.println("Mother's Name : Mahayani");
+		System.out.println("Address : No 62 Taman Sri Temin, 06050 Bandar Bukit Kayu Hitam, Kedah ");
+	}
+
+}
